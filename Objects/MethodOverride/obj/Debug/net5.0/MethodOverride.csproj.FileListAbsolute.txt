@@ -1,0 +1,13 @@
+C:\Users\Vartotojas\Desktop\Manocsharp\My Projects\Objects\MethodOverride\bin\Debug\net5.0\MethodOverride.exe
+C:\Users\Vartotojas\Desktop\Manocsharp\My Projects\Objects\MethodOverride\bin\Debug\net5.0\MethodOverride.deps.json
+C:\Users\Vartotojas\Desktop\Manocsharp\My Projects\Objects\MethodOverride\bin\Debug\net5.0\MethodOverride.runtimeconfig.json
+C:\Users\Vartotojas\Desktop\Manocsharp\My Projects\Objects\MethodOverride\bin\Debug\net5.0\MethodOverride.runtimeconfig.dev.json
+C:\Users\Vartotojas\Desktop\Manocsharp\My Projects\Objects\MethodOverride\bin\Debug\net5.0\MethodOverride.dll
+C:\Users\Vartotojas\Desktop\Manocsharp\My Projects\Objects\MethodOverride\bin\Debug\net5.0\MethodOverride.pdb
+C:\Users\Vartotojas\Desktop\Manocsharp\My Projects\Objects\MethodOverride\obj\Debug\net5.0\MethodOverride.csprojAssemblyReference.cache
+C:\Users\Vartotojas\Desktop\Manocsharp\My Projects\Objects\MethodOverride\obj\Debug\net5.0\MethodOverride.AssemblyInfoInputs.cache
+C:\Users\Vartotojas\Desktop\Manocsharp\My Projects\Objects\MethodOverride\obj\Debug\net5.0\MethodOverride.AssemblyInfo.cs
+C:\Users\Vartotojas\Desktop\Manocsharp\My Projects\Objects\MethodOverride\obj\Debug\net5.0\MethodOverride.csproj.CoreCompileInputs.cache
+C:\Users\Vartotojas\Desktop\Manocsharp\My Projects\Objects\MethodOverride\obj\Debug\net5.0\MethodOverride.dll
+C:\Users\Vartotojas\Desktop\Manocsharp\My Projects\Objects\MethodOverride\obj\Debug\net5.0\MethodOverride.pdb
+C:\Users\Vartotojas\Desktop\Manocsharp\My Projects\Objects\MethodOverride\obj\Debug\net5.0\MethodOverride.genruntimeconfig.cache

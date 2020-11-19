@@ -1,0 +1,13 @@
+C:\Users\Vartotojas\Desktop\Manocsharp\My Projects\Objects\Objects\bin\Debug\net5.0\ObjectsInheritanceClassConstructor.exe
+C:\Users\Vartotojas\Desktop\Manocsharp\My Projects\Objects\Objects\bin\Debug\net5.0\ObjectsInheritanceClassConstructor.deps.json
+C:\Users\Vartotojas\Desktop\Manocsharp\My Projects\Objects\Objects\bin\Debug\net5.0\ObjectsInheritanceClassConstructor.runtimeconfig.json
+C:\Users\Vartotojas\Desktop\Manocsharp\My Projects\Objects\Objects\bin\Debug\net5.0\ObjectsInheritanceClassConstructor.runtimeconfig.dev.json
+C:\Users\Vartotojas\Desktop\Manocsharp\My Projects\Objects\Objects\bin\Debug\net5.0\ObjectsInheritanceClassConstructor.dll
+C:\Users\Vartotojas\Desktop\Manocsharp\My Projects\Objects\Objects\bin\Debug\net5.0\ObjectsInheritanceClassConstructor.pdb
+C:\Users\Vartotojas\Desktop\Manocsharp\My Projects\Objects\Objects\obj\Debug\net5.0\ObjectsInheritanceClassConstructor.AssemblyInfoInputs.cache
+C:\Users\Vartotojas\Desktop\Manocsharp\My Projects\Objects\Objects\obj\Debug\net5.0\ObjectsInheritanceClassConstructor.AssemblyInfo.cs
+C:\Users\Vartotojas\Desktop\Manocsharp\My Projects\Objects\Objects\obj\Debug\net5.0\ObjectsInheritanceClassConstructor.csproj.CoreCompileInputs.cache
+C:\Users\Vartotojas\Desktop\Manocsharp\My Projects\Objects\Objects\obj\Debug\net5.0\ObjectsInheritanceClassConstructor.dll
+C:\Users\Vartotojas\Desktop\Manocsharp\My Projects\Objects\Objects\obj\Debug\net5.0\ObjectsInheritanceClassConstructor.pdb
+C:\Users\Vartotojas\Desktop\Manocsharp\My Projects\Objects\Objects\obj\Debug\net5.0\ObjectsInheritanceClassConstructor.genruntimeconfig.cache
+C:\Users\Vartotojas\Desktop\Manocsharp\My Projects\Objects\Objects\obj\Debug\net5.0\ObjectsInheritanceClassConstructor.csprojAssemblyReference.cache
